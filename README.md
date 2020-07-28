@@ -2,6 +2,10 @@
 
 You can programmatically split the collections of items among the Xamarin.Forms [SfListView](https://help.syncfusion.com/xamarin/listview/overview) loaded in [CarouselPage](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/navigation/carousel-page).
 
+You can also refer the following article.
+
+https://www.syncfusion.com/kb/11789/how-to-share-items-source-among-xamarin-forms-listview-with-carousel-page-sflistview
+
 **XAML**
 
 Define [CarouselPage](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.carouselpage) and load the ListViewPage in [CarouselPage.ItemTemplate](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.multipage-1.itemtemplate#Xamarin_Forms_MultiPage_1_ItemTemplate).
